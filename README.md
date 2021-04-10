@@ -1,7 +1,5 @@
 # newappapril
-
-A new Flutter application.
-
+tried a listview application.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
